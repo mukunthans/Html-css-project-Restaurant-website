@@ -31,7 +31,7 @@ input,button,textarea{
     /*Colors*/
     --BGCOLOR:orange;
     --BGCOLOR-FADE:rgb(252, 217, 152);
-    --BGIMAGE:linear-gradient(to bottom,var(--BGCOLOR),var(--BGCOLOR-FADE));
+    --BGIMAGE:linear-gradient(to bottom,var(--BGCOLOR),var(--HIGHLIGHT-COLOR),var(--BGCOLOR-FADE));
     --BODY-BGCOLOR:WHITE;
     --FONT-COLOR:BLACK;
     --BORDER-COLOR:#333;
